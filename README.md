@@ -8,6 +8,9 @@ Everyone gets paid to keep the network secure. Everyone shares the bank history,
 
 ## Installation
 
+Install SahaCoin Wallet on Windows or Linux, download wallet https://www.sahacoin.org/index.php?r=site/download
+
+
 Install SahaCoin node on Ubuntu Server 18.04
 
 ```bash
