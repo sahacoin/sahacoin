@@ -1,5 +1,5 @@
 
-# Project Title
+# SahaCoin - Power of the Sahara Cryptocurrency
 ![Logo](https://www.sahacoin.org/images/logo.png)
 
 SahaCoin is a decentralised and eco-friendly currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake. Sahacoin is based on the latest Proof-of-Stake technology. No more power hungry mining that is harmful to the environment like in Bitcoin.
