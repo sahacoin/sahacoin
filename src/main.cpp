@@ -67,7 +67,7 @@
 using namespace std;
 
 #if defined(NDEBUG)
-# error "SahaCoin cannot be compiled without assertions."
+# error "Sahacoin cannot be compiled without assertions."
 #endif
 
 /**
@@ -131,7 +131,7 @@ static void CheckBlockIndex(const Consensus::Params& consensusParams);
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "SahaCoin Signed Message:\n";
+const string strMessageMagic = "Sahacoin Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1780,7 +1780,14 @@ bool ReadBlockFromDisk(CBlock& block, const CBlockIndex* pindex, const Consensus
 
 CAmount GetProofOfWorkSubsidy()
 {
+    int nBlockHeight = chainActive.Height() + 1;
+
+    if (nBlockHeight == 1) {
+     return 1000000 * COIN;
+    }
+    if (nBlockHeight != 1) {
     return 50 * COIN;
+    }
 }
 
 CAmount GetProofOfStakeSubsidy()
@@ -2500,9 +2507,9 @@ bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pin
 
     // BIP66 is always active
     flags |= SCRIPT_VERIFY_DERSIG;
-    // SahaCoin also requires DER encoding of pubkeys
+    // Sahacoin also requires DER encoding of pubkeys
     flags |= SCRIPT_VERIFY_DERKEY;
-    // SahaCoin also requires low S in sigs
+    // Sahacoin also requires low S in sigs
     flags |= SCRIPT_VERIFY_LOW_S;
 
     // Start enforcing CHECKLOCKTIMEVERIFY, (BIP65) since protocol v3

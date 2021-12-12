@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>هذه هي عناوين SahaCoin التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
+        <translation>هذه هي عناوين Sahacoin التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>هذه هي عناوين SahaCoin التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
+        <translation>هذه هي عناوين Sahacoin التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -371,11 +371,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>وقَع الرسائل بواسطة ال: SahaCoin الخاص بك لإثبات امتلاكك لهم</translation>
+        <translation>وقَع الرسائل بواسطة ال: Sahacoin الخاص بك لإثبات امتلاكك لهم</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل SahaCoin محدَدة</translation>
+        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل Sahacoin محدَدة</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>فتح URI : SahaCoin أو طلب دفع</translation>
+        <translation>فتح URI : Sahacoin أو طلب دفع</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

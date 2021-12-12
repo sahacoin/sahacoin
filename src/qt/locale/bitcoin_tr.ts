@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için kullanacağınız SahaCoin adreslerinizdir. SahaCoin yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
+        <translation>Bunlar ödemeleri göndermek için kullanacağınız Sahacoin adreslerinizdir. Sahacoin yollamadan önce tutarı ve alıcının alım adresini her zaman kontrol ediniz.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için kullanacağınız SahaCoin adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
+        <translation>Bunlar ödemeleri almak için kullanacağınız Sahacoin adreslerinizdir. Her işlem için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -391,11 +391,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>İletileri adreslerin size ait olduğunu ispatlamak için SahaCoin adresleri ile imzala</translation>
+        <translation>İletileri adreslerin size ait olduğunu ispatlamak için Sahacoin adresleri ile imzala</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Belirtilen SahaCoin adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
+        <translation>Belirtilen Sahacoin adresleri ile imzalandıklarından emin olmak için iletileri kontrol et</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>SahaCoin şebekesine %n faal bağlantı</numerusform><numerusform>SahaCoin ağına %n etkin bağlantı var</numerusform></translation>
+        <translation><numerusform>Sahacoin şebekesine %n faal bağlantı</numerusform><numerusform>Sahacoin ağına %n etkin bağlantı var</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -479,7 +479,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Olası SahaCoin komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
+        <translation>Olası Sahacoin komut satırı seçeneklerinin listesini görmek için %1 yardım mesajını göster</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -549,14 +549,14 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Ölümcül bir hata oluştu. SahaCoin yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
+        <translation>Ölümcül bir hata oluştu. Sahacoin yazılımı artık güvenli bir şekilde çalışmaya devam edemediği için kapatılacaktır.</translation>
     </message>
 </context>
 <context>
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>SahaCoin Seçimi</translation>
+        <translation>Sahacoin Seçimi</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -743,7 +743,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Girilen "%1" adresi geçerli bir SahaCoin adresi değildir.</translation>
+        <translation>Girilen "%1" adresi geçerli bir Sahacoin adresi değildir.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -852,7 +852,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1, SahaCoin blok zincirinin bir kopyasını indirecek ve saklayacaktır. Bu klasörde en az %2 GB veri saklanacak ve bu zamanla artacaktır. Cüzdan da bu klasörde saklanacaktır.</translation>
+        <translation>%1, Sahacoin blok zincirinin bir kopyasını indirecek ve saklayacaktır. Bu klasörde en az %2 GB veri saklanacak ve bu zamanla artacaktır. Cüzdan da bu klasörde saklanacaktır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1049,7 +1049,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide SahaCoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <translation>Yönlendiricide Sahacoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1057,7 +1057,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>SahaCoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <translation>Sahacoin ağına bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>SahaCoin ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
+        <translation>Sahacoin ağına gizli Tor servisleri için ayrı bir SOCKS5 vekil sunucusu aracılığıyla bağlan.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1145,7 +1145,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>SahaCoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>Sahacoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1196,7 +1196,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak SahaCoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
+        <translation>Görüntülenen bilgiler güncel olmayabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak Sahacoin ağı ile senkronize olur ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1271,7 +1271,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>SahaCoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <translation>Sahacoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1287,7 +1287,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir SahaCoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
+        <translation>URI ayrıştırılamıyor! Bunun nedeni geçersiz bir Sahacoin adresi veya hatalı biçimlendirilmiş URI değişkenleri olabilir.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1381,7 +1381,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Bir SahaCoin adresi giriniz (mesela %1)</translation>
+        <translation>Bir Sahacoin adresi giriniz (mesela %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1726,7 +1726,7 @@
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramification of a command.</source>
-        <translation>UYARI: SahaCoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki sahacoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
+        <translation>UYARI: Sahacoin dolandırıcılarının çok fazla etkin olduğu zamanlarda, dolandırıcılar bazı kullanıcılara buraya komutlar yazmalarını söylerek onların cüzdanlarındaki sahacoinleri çalmışlardır. Bir komutun sonuçlarını tam olarak anlamadan bu konsolu kullanmayın.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -1805,7 +1805,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte SahaCoin ağı üzerinden gönderilmeyecektir.</translation>
+        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir ileti. Not: Bu ileti ödeme ile birlikte Sahacoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1958,7 +1958,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>SahaCoin yolla</translation>
+        <translation>Sahacoin yolla</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2150,7 +2150,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>SahaCoin gönderimini onaylayın</translation>
+        <translation>Sahacoin gönderimini onaylayın</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2198,7 +2198,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Uyarı: geçersiz SahaCoin adresi</translation>
+        <translation>Uyarı: geçersiz Sahacoin adresi</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2241,7 +2241,7 @@
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>Ödemenin yollanacağı SahaCoin adresi</translation>
+        <translation>Ödemenin yollanacağı Sahacoin adresi</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2285,7 +2285,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Referans için sahacoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj SahaCoin ağı üzerinden gönderilmeyecektir.</translation>
+        <translation>Referans için sahacoin: URI'siyle iliştirilmiş işlemle birlikte depolanacak bir ileti. Not: Bu mesaj Sahacoin ağı üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2334,7 +2334,7 @@
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>İletinin imzalanmasında kullanılacak SahaCoin adresi</translation>
+        <translation>İletinin imzalanmasında kullanılacak Sahacoin adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2366,7 +2366,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Bu SahaCoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
+        <translation>Bu Sahacoin adresinin sizin olduğunu ispatlamak için iletiyi imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2390,11 +2390,11 @@
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>İletinin imzalanmasında kullanılan SahaCoin adresi</translation>
+        <translation>İletinin imzalanmasında kullanılan Sahacoin adresi</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Belirtilen SahaCoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
+        <translation>Belirtilen Sahacoin adresi ile imzalandığını doğrulamak için iletiyi kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2945,7 +2945,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>SahaCoini Gönder</translation>
+        <translation>Sahacoini Gönder</translation>
     </message>
 </context>
 <context>
@@ -3055,7 +3055,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>The %s developers</source>

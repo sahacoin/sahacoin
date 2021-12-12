@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les vostres adreces de SahaCoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
+        <translation>Aquestes són les vostres adreces de Sahacoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les vostres adreces SahaCoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
+        <translation>Aquestes són les vostres adreces Sahacoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Envia monedes a una adreça SahaCoin</translation>
+        <translation>Envia monedes a una adreça Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -387,11 +387,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de SahaCoin per provar que les poseeixes</translation>
+        <translation>Signa el missatges amb la seva adreça de Sahacoin per provar que les poseeixes</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça SahaCoin específica.</translation>
+        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Sahacoin específica.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -431,7 +431,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa SahaCoin</numerusform><numerusform>%n connexions actives a la xarxa SahaCoin</numerusform></translation>
+        <translation><numerusform>%n connexió activa a la xarxa Sahacoin</numerusform><numerusform>%n connexions actives a la xarxa Sahacoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -475,7 +475,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de SahaCoin</translation>
+        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de Sahacoin</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>S'ha produït un error fatal. SahaCoin no pot continuar amb seguretat i finalitzarà.</translation>
+        <translation>S'ha produït un error fatal. Sahacoin no pot continuar amb seguretat i finalitzarà.</translation>
     </message>
 </context>
 <context>
@@ -735,7 +735,7 @@
     </message>
     <message>
         <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de SahaCoin vàlida.</translation>
+        <translation>L'adreça introduïda «%1» no és una adreça de Sahacoin vàlida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -844,7 +844,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 baixarà i emmagatzemarà una còpia de la cadena de blocs de SahaCoin. Com a mínim %2GB de dades s'emmagatzemaran en aquest directori, i augmentarà al llarg del temps. El moneder també s'emmagatzemarà en aquest directori.</translation>
+        <translation>%1 baixarà i emmagatzemarà una còpia de la cadena de blocs de Sahacoin. Com a mínim %2GB de dades s'emmagatzemaran en aquest directori, i augmentarà al llarg del temps. El moneder també s'emmagatzemarà en aquest directori.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1021,7 +1021,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obre el port del client de SahaCoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
+        <translation>Obre el port del client de Sahacoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1029,7 +1029,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Connecta a la xarxa SahaCoin a través d'un proxy SOCKS5.</translation>
+        <translation>Connecta a la xarxa Sahacoin a través d'un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1069,7 +1069,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conectar a la red de SahaCoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
+        <translation>Conectar a la red de Sahacoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1168,7 +1168,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa SahaCoin un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Sahacoin un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de SahaCoin no vàlida o per paràmetres URI amb mal format.</translation>
+        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Sahacoin no vàlida o per paràmetres URI amb mal format.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1345,7 +1345,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Introduïu una adreça de SahaCoin (p. ex. %1)</translation>
+        <translation>Introduïu una adreça de Sahacoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1689,7 +1689,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa SahaCoin.</translation>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Sahacoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2066,7 +2066,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Avís: adreça SahaCoin no vàlida</translation>
+        <translation>Avís: adreça Sahacoin no vàlida</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2101,7 +2101,7 @@
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>L'adreça SahaCoin on enviar el pagament</translation>
+        <translation>L'adreça Sahacoin on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2145,7 +2145,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al sahacoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa SahaCoin.</translation>
+        <translation>Un missatge que s'ha adjuntat al sahacoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Sahacoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2190,7 +2190,7 @@
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>L'adreça SahaCoin amb què signar el missatge</translation>
+        <translation>L'adreça Sahacoin amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2222,7 +2222,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça SahaCoin</translation>
+        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Sahacoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2246,11 +2246,11 @@
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>L'adreça SahaCoin amb què va ser signat el missatge</translation>
+        <translation>L'adreça Sahacoin amb què va ser signat el missatge</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça SahaCoin específica</translation>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Sahacoin específica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2843,7 +2843,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

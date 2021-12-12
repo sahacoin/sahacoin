@@ -3014,7 +3014,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>The %s developers</source>

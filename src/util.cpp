@@ -454,13 +454,13 @@ void PrintExceptionContinue(const std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\SahaCoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\SahaCoin
-    // Mac: ~/Library/Application Support/SahaCoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Sahacoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Sahacoin
+    // Mac: ~/Library/Application Support/Sahacoin
     // Unix: ~/.sahacoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "SahaCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Sahacoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -470,7 +470,7 @@ boost::filesystem::path GetDefaultDataDir()
         pathRet = fs::path(pszHome);
 #ifdef MAC_OSX
     // Mac
-    return pathRet / "Library/Application Support/SahaCoin";
+    return pathRet / "Library/Application Support/Sahacoin";
 #else
     // Unix
     return pathRet / ".sahacoin";
@@ -817,7 +817,7 @@ std::string CopyrightHolders(const std::string& strPrefix)
         strPrefix + "The Bitcoin Core developers" +
         "\n" + strPrefix + "The Blackcoin developers" +
         "\n" + strPrefix + "The Blackcoin More developers";
-        "\n" + strPrefix + "SahaCoin developers";
+        "\n" + strPrefix + "Sahacoin developers";
 
     return strCopyrightHolders;
 }

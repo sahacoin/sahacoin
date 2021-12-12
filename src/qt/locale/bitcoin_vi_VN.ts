@@ -187,7 +187,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Gửi coins đến tài khoản SahaCoin</translation>
+        <translation>Gửi coins đến tài khoản Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -235,11 +235,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ SahaCoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <translation>Dùng địa chỉ Sahacoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ SahaCoin xác định.</translation>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Sahacoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -537,7 +537,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ SahaCoin thông qua SOCKS5 proxy.</translation>
+        <translation>Kết nối đến máy chủ Sahacoin thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1019,7 +1019,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>(default: %u)</source>

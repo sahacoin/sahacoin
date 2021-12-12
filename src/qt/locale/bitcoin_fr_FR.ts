@@ -219,7 +219,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Envoyer des pièces à une adresse SahaCoin</translation>
+        <translation>Envoyer des pièces à une adresse Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses SahaCoin pour prouver que vous les détenez</translation>
+        <translation>Signer vos messages avec vos adresses Sahacoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -307,7 +307,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n connexion active au réseau SahaCoin</numerusform><numerusform>%n connexions actives au réseau SahaCoin</numerusform></translation>
+        <translation><numerusform>%n connexion active au réseau Sahacoin</numerusform><numerusform>%n connexions actives au réseau Sahacoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -685,7 +685,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client SahaCoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <translation>Ouvrir le port du client Sahacoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -845,7 +845,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Entrer une adresse SahaCoin (e.g. %1)</translation>
+        <translation>Entrer une adresse Sahacoin (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1663,7 +1663,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

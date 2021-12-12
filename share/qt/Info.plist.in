@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>SahaCoin-Qt</string>
+  <string>Sahacoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>SahaCoin-Qt</string>
+  <string>Sahacoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.sahacoin.SahaCoin-Qt</string>
+  <string>org.sahacoin.Sahacoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>

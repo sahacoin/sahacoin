@@ -48,9 +48,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "SahaCoin"
+#define QAPP_ORG_NAME "Sahacoin"
 #define QAPP_ORG_DOMAIN "sahacoinmore.org"
-#define QAPP_APP_NAME_DEFAULT "SahaCoin-Qt"
-#define QAPP_APP_NAME_TESTNET "SahaCoin-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "Sahacoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Sahacoin-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

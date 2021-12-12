@@ -183,7 +183,7 @@ BOOST_AUTO_TEST_CASE(CreateNewBlock_validity)
 {
     // Note that by default, these tests run with size accounting enabled.
     const CChainParams& chainparams = Params(CBaseChainParams::MAIN);
-    CScript scriptPubKey = CScript() << ParseHex("04a0460de2288a5e76023b36c10f122a2a1aed544f1465b3d5c23a548693f450d041286bf87c1aadfd126d8766a588fff82772eea6a811b0da311d6aae801a2dcb") << OP_CHECKSIG;
+    CScript scriptPubKey = CScript() << ParseHex("043ebdde665bb015f48b97021f633e4dd445c02b96a8b335dea505a4605cec1342f75fe97fa663a224c1697d31bdb756538c0d23c9d71642e87de485481a1b4f1a") << OP_CHECKSIG;
     CBlockTemplate *pblocktemplate;
     CMutableTransaction tx,tx2;
     CScript script;

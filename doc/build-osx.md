@@ -24,7 +24,7 @@ In case you want to build the disk image with `make deploy` (.dmg / optional), y
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build SahaCoin
+Build Sahacoin
 ------------------------
 
 1. Clone the sahacoin source code and cd into `sahacoin`
@@ -53,19 +53,19 @@ Build SahaCoin
 Running
 -------
 
-SahaCoin is now available at `./src/sahacoind`
+Sahacoin is now available at `./src/sahacoind`
 
 Before running, it's recommended you create an RPC configuration file.
 
-    echo -e "rpcuser=sahacoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/SahaCoin/sahacoin.conf"
+    echo -e "rpcuser=sahacoinrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/Sahacoin/sahacoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/SahaCoin/sahacoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Sahacoin/sahacoin.conf"
 
 The first time you run sahacoind, it will start downloading the blockchain. This process could take several hours.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/SahaCoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Sahacoin/debug.log
 
 Other commands:
 -------

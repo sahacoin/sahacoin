@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -387,11 +387,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Assine mensagens com seus endereços SahaCoin para provar que você é dono delas</translation>
+        <translation>Assine mensagens com seus endereços Sahacoin para provar que você é dono delas</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços SahaCoin específicos</translation>
+        <translation>Verificar mensagens para se assegurar que elas foram assinadas pelo dono de Endereços Sahacoin específicos</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -431,7 +431,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n conexão ativa na rede SahaCoin</numerusform><numerusform>%n conexões ativas na rede SahaCoin</numerusform></translation>
+        <translation><numerusform>%n conexão ativa na rede Sahacoin</numerusform><numerusform>%n conexões ativas na rede Sahacoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -475,7 +475,7 @@
     </message>
     <message>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostrar a mensagem de ajuda do %1 para obter uma lista com possíveis opções de linha de comando SahaCoin</translation>
+        <translation>Mostrar a mensagem de ajuda do %1 para obter uma lista com possíveis opções de linha de comando Sahacoin</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -545,7 +545,7 @@
     </message>
     <message>
         <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Um erro fatal ocorreu. SahaCoin não pode continuar em segurança e irá fechar.</translation>
+        <translation>Um erro fatal ocorreu. Sahacoin não pode continuar em segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -848,7 +848,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Bitcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>O %1 irá baixar e armazenar uma cópia do block chain do SahaCoin. Pelo menos %2GB de dados serão armazenados neste diretório, e ele crescerá ao longo do tempo. A carteira também será armazenada neste diretório.</translation>
+        <translation>O %1 irá baixar e armazenar uma cópia do block chain do Sahacoin. Pelo menos %2GB de dados serão armazenados neste diretório, e ele crescerá ao longo do tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1045,7 +1045,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir as portas do cliente SahaCoin automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
+        <translation>Abrir as portas do cliente Sahacoin automaticamente no roteador. Isto só funcionará se seu roteador suportar UPnP e esta função estiver habilitada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1053,7 +1053,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Conectar na rede SahaCoin através de um proxy SOCKS5.</translation>
+        <translation>Conectar na rede Sahacoin através de um proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1093,7 +1093,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conecte-se à rede SahaCoin através de um proxy SOCKS5 separado para utilizar serviços ocultos Tor.</translation>
+        <translation>Conecte-se à rede Sahacoin através de um proxy SOCKS5 separado para utilizar serviços ocultos Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1192,7 +1192,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede SahaCoin depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
+        <translation>A informação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede Sahacoin depois que a conexão é estabelecida, mas este processo pode não estar completo ainda.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1377,7 +1377,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Informe um endereço SahaCoin (ex: %1)</translation>
+        <translation>Informe um endereço Sahacoin (ex: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1801,7 +1801,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Uma mensagem opcional que será anexada na cobrança e será mostrada quando ela for aberta. Nota: A mensagem não será enviada com o pagamento pela rede SahaCoin.</translation>
+        <translation>Uma mensagem opcional que será anexada na cobrança e será mostrada quando ela for aberta. Nota: A mensagem não será enviada com o pagamento pela rede Sahacoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2285,7 +2285,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>A mensagem que foi anexada ao sahacoin: URI na qual será gravada na transação para sua referência. Nota: Essa mensagem não será gravada publicamente na rede SahaCoin.</translation>
+        <translation>A mensagem que foi anexada ao sahacoin: URI na qual será gravada na transação para sua referência. Nota: Essa mensagem não será gravada publicamente na rede Sahacoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2334,7 +2334,7 @@
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>O enderesso SahaCoin que assinará a mensagem</translation>
+        <translation>O enderesso Sahacoin que assinará a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2366,7 +2366,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Assinar mensagem para provar que você é dono deste endereço SahaCoin</translation>
+        <translation>Assinar mensagem para provar que você é dono deste endereço Sahacoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2390,11 +2390,11 @@
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>O enderesso SahaCoin que assionou a mesnagem</translation>
+        <translation>O enderesso Sahacoin que assionou a mesnagem</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço SahaCoin específico.</translation>
+        <translation>Verificar mensagem para se assegurar que ela foi assinada pelo dono de um endereço Sahacoin específico.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3055,7 +3055,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>The %s developers</source>

@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar monedas a una dirección SahaCoin</translation>
+        <translation>Enviar monedas a una dirección Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -159,11 +159,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones SahaCoin para probar que eres dueño de ellas</translation>
+        <translation>Firma mensajes con tus direcciones Sahacoin para probar que eres dueño de ellas</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones SahaCoin especificas</translation>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Sahacoin especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -609,7 +609,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

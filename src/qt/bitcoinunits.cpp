@@ -51,9 +51,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("SahaCoins");
-    case mBTC: return QString("Milli-SahaCoins (1 / 1" THIN_SP_UTF8 "000)");
-    case uBTC: return QString("Micro-SahaCoins (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case BTC: return QString("Sahacoins");
+    case mBTC: return QString("Milli-Sahacoins (1 / 1" THIN_SP_UTF8 "000)");
+    case uBTC: return QString("Micro-Sahacoins (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }

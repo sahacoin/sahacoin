@@ -81,12 +81,12 @@
     <message>
         <location line="+7"/>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your SahaCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <translation>These are your Sahacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your SahaCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <translation>These are your Sahacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -431,7 +431,7 @@
     <message>
         <location line="-510"/>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Send coins to a SahaCoin address</translation>
+        <translation>Send coins to a Sahacoin address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -461,7 +461,7 @@
     <message>
         <location line="+516"/>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <location line="-741"/>
@@ -496,12 +496,12 @@
     <message>
         <location line="+7"/>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Sign messages with your SahaCoin addresses to prove you own them</translation>
+        <translation>Sign messages with your Sahacoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified SahaCoin addresses</translation>
+        <translation>Verify messages to ensure they were signed with specified Sahacoin addresses</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -552,8 +552,8 @@
         <location line="+356"/>
         <source>%n active connection(s) to Bitcoin network</source>
         <translation>
-            <numerusform>%n active connection to SahaCoin network</numerusform>
-            <numerusform>%n active connections to SahaCoin network</numerusform>
+            <numerusform>%n active connection to Sahacoin network</numerusform>
+            <numerusform>%n active connections to Sahacoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
     <message>
         <location line="-440"/>
         <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Show the %1 help message to get a list with possible SahaCoin command-line options</translation>
+        <translation>Show the %1 help message to get a list with possible Sahacoin command-line options</translation>
     </message>
     <message>
         <location line="+199"/>
@@ -1070,7 +1070,7 @@
     <message>
         <location line="+10"/>
         <source>%1 will download and store a copy of the Bitcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 will download and store a copy of the SahaCoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <translation>%1 will download and store a copy of the Sahacoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1119,7 +1119,7 @@
     <message>
         <location line="+119"/>
         <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the SahaCoin network, as detailed below.</translation>
+        <translation>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Sahacoin network, as detailed below.</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1325,7 +1325,7 @@
     <message>
         <location line="+30"/>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the SahaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <translation>Automatically open the Sahacoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1335,7 +1335,7 @@
     <message>
         <location line="+17"/>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Connect to the SahaCoin network through a SOCKS5 proxy.</translation>
+        <translation>Connect to the Sahacoin network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1390,7 +1390,7 @@
     <message>
         <location line="+25"/>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Connect to the SahaCoin network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+        <translation>Connect to the Sahacoin network through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1515,7 +1515,7 @@
         <location line="+62"/>
         <location line="+386"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the SahaCoin network after a connection is established, but this process has not completed yet.</translation>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Sahacoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1635,7 +1635,7 @@
     <message>
         <location line="+8"/>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid SahaCoin address or malformed URI parameters.</translation>
+        <translation>URI cannot be parsed! This can be caused by an invalid Sahacoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1757,7 +1757,7 @@
     <message>
         <location filename="../guiutil.cpp" line="+136"/>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Enter a SahaCoin address (e.g. %1)</translation>
+        <translation>Enter a Sahacoin address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+762"/>
@@ -2343,7 +2343,7 @@
         <location line="+14"/>
         <location line="+23"/>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the SahaCoin network.</translation>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Sahacoin network.</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -2851,7 +2851,7 @@
     <message>
         <location line="+102"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Warning: Invalid SahaCoin address</translation>
+        <translation>Warning: Invalid Sahacoin address</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2906,7 +2906,7 @@
     <message>
         <location line="+39"/>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>The SahaCoin address to send the payment to</translation>
+        <translation>The Sahacoin address to send the payment to</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -2963,7 +2963,7 @@
     <message>
         <location line="+47"/>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>A message that was attached to the sahacoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the SahaCoin network.</translation>
+        <translation>A message that was attached to the sahacoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Sahacoin network.</translation>
     </message>
     <message>
         <location line="+448"/>
@@ -3025,7 +3025,7 @@
     <message>
         <location line="+18"/>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>The SahaCoin address to sign the message with</translation>
+        <translation>The Sahacoin address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3067,7 +3067,7 @@
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Sign the message to prove you own this SahaCoin address</translation>
+        <translation>Sign the message to prove you own this Sahacoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3098,12 +3098,12 @@
     <message>
         <location line="+21"/>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>The SahaCoin address the message was signed with</translation>
+        <translation>The Sahacoin address the message was signed with</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified SahaCoin address</translation>
+        <translation>Verify the message to ensure it was signed with the specified Sahacoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3954,7 +3954,7 @@
     <message>
         <location line="-360"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">SahaCoin</translation>
+        <translation type="unfinished">Sahacoin</translation>
     </message>
     <message>
         <location line="+1"/>

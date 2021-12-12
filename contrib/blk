@@ -3,7 +3,7 @@
 usage="Usage: blk [ info | stake | latest | dust ] \n \n
 	info: Check basic info. \n
 	stake: Enables staking; Passes password without storing it in memory. \n
-	latest: Compares latest block with the SahaCoinNL hosted block explorer. \n
+	latest: Compares latest block with the SahacoinNL hosted block explorer. \n
 	dust: Prunes dust from wallet. Dust is defined as less than .0001BLK. Requires jq. \n"
 
 blkc='/usr/local/bin/sahacoin-cli -datadir=/var/lib/.sahacoin/'
@@ -19,7 +19,7 @@ info )
 ;;	
 
 stake )
-	echo 'enter SahaCoin Password'
+	echo 'enter Sahacoin Password'
 	read -s BLKPW
 	$blkc walletpassphrase $BLKPW 99999999 true
 	BLKPW=null

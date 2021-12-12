@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Trimite monedele către o adresă SahaCoin</translation>
+        <translation>Trimite monedele către o adresă Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -195,11 +195,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de SahaCoin pentru a face dovada că îți aparțin.</translation>
+        <translation>Semnează mesajele cu adresa ta de Sahacoin pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de SahaCoin specificată.</translation>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Sahacoin specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -749,7 +749,7 @@
     <name>bitcoin-core</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Information</source>

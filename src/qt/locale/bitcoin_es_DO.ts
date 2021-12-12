@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar monedas a una dirección SahaCoin</translation>
+        <translation>Enviar monedas a una dirección Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -195,11 +195,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones SahaCoin para demostrar la propiedad</translation>
+        <translation>Firmar mensajes con sus direcciones Sahacoin para demostrar la propiedad</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones SahaCoin concretas</translation>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones Sahacoin concretas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -219,7 +219,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Solicitar pagos (genera codigo QR y URL's de SahaCoin)</translation>
+        <translation>Solicitar pagos (genera codigo QR y URL's de Sahacoin)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -495,7 +495,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente SahaCoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <translation>Abrir automáticamente el puerto del cliente Sahacoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red SahaCoin después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Sahacoin después de que se haya establecido una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -1020,7 +1020,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección SahaCoin</translation>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección Sahacoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1040,7 +1040,7 @@
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección SahaCoin indicada</translation>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección Sahacoin indicada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1124,7 +1124,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

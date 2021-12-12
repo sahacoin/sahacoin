@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>SahaCoin küldése megadott címre</translation>
+        <translation>Sahacoin küldése megadott címre</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -211,11 +211,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Üzenetek aláírása a SahaCoin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
+        <translation>Üzenetek aláírása a Sahacoin-címmeiddel, amivel bizonyítod, hogy a cím a sajátod</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt SahaCoin-címekkel vannak-e aláírva</translation>
+        <translation>Üzenetek ellenőrzése, hogy valóban a megjelölt Sahacoin-címekkel vannak-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -255,7 +255,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a SahaCoin hálózathoz</numerusform><numerusform>%n aktív kapcsolat a SahaCoin hálózathoz</numerusform></translation>
+        <translation><numerusform>%n aktív kapcsolat a Sahacoin hálózathoz</numerusform><numerusform>%n aktív kapcsolat a Sahacoin hálózathoz</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -593,7 +593,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A SahaCoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <translation>A Sahacoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -601,7 +601,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a SahaCoin hálózatához SOCKS5 proxyn keresztül</translation>
+        <translation>Csatlakozás a Sahacoin hálózatához SOCKS5 proxyn keresztül</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -696,7 +696,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a SahaCoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Sahacoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -765,7 +765,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Ad meg egy SahaCoin címet (pl: %1)</translation>
+        <translation>Ad meg egy Sahacoin címet (pl: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1379,7 +1379,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>

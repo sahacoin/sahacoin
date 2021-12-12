@@ -87,7 +87,7 @@ src/qt/sahacoin-qt.includes
 Makefile
 !depends/Makefile
 src/qt/sahacoin-qt
-SahaCoin-Qt.app
+Sahacoin-Qt.app
 background.tiff*
 
 # Qt Creator

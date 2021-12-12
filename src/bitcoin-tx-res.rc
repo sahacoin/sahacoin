@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "SahaCoin"
-            VALUE "FileDescription",    "sahacoin-tx (CLI SahaCoin transaction editor utility)"
+            VALUE "CompanyName",        "Sahacoin"
+            VALUE "FileDescription",    "sahacoin-tx (CLI Sahacoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "sahacoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

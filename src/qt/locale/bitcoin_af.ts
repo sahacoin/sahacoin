@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u SahaCoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <translation>Hierdie is die adresse vanwaar u Sahacoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u SahaCoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <translation>Hierdie is die adresse waar u Sahacoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -331,7 +331,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Stuur munte na 'n SahaCoin adres</translation>
+        <translation>Stuur munte na 'n Sahacoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -379,11 +379,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u SahaCoin adresse om u eienaarskap te bewys</translation>
+        <translation>Onderteken boodskappe met u Sahacoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde SahaCoin adresse</translation>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Sahacoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -949,7 +949,7 @@
     <name>bitcoin-core</name>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Information</source>

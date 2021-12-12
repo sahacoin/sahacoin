@@ -59,11 +59,11 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dette er dine SahaCoin-adresser for sending av betalinger. Sjekk alltid beløpet og mottakeradressen før sending av mynter.</translation>
+        <translation>Dette er dine Sahacoin-adresser for sending av betalinger. Sjekk alltid beløpet og mottakeradressen før sending av mynter.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine SahaCoin-adresser for å sende betalinger med. Det er anbefalt å bruke en ny mottaksadresse for hver transaksjon.</translation>
+        <translation>Dette er dine Sahacoin-adresser for å sende betalinger med. Det er anbefalt å bruke en ny mottaksadresse for hver transaksjon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Send til en SahaCoin-adresse</translation>
+        <translation>Send til en Sahacoin-adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -303,11 +303,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signer en melding med SahaCoin-adressene dine for å bevise at du eier dem</translation>
+        <translation>Signer en melding med Sahacoin-adressene dine for å bevise at du eier dem</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt SahaCoin-adresse</translation>
+        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt Sahacoin-adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -347,7 +347,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til SahaCoin-nettverket</numerusform><numerusform>%n aktive forbindelser til SahaCoin-nettverket</numerusform></translation>
+        <translation><numerusform>%n aktiv forbindelse til Sahacoin-nettverket</numerusform><numerusform>%n aktive forbindelser til Sahacoin-nettverket</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -765,7 +765,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk SahaCoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <translation>Åpne automatisk Sahacoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -773,7 +773,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Koble til SahaCoin-nettverket gjennom en SOCKS5 proxy.</translation>
+        <translation>Koble til Sahacoin-nettverket gjennom en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Koble til SahaCoin-nettverket gjennom en separat SOCKS5 mellomtjener for Tor skjulte tjenester.</translation>
+        <translation>Koble til Sahacoin-nettverket gjennom en separat SOCKS5 mellomtjener for Tor skjulte tjenester.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -904,7 +904,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med SahaCoin-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
+        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med Sahacoin-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -993,7 +993,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Oppgi en SahaCoin-adresse (f.eks. %1)</translation>
+        <translation>Oppgi en Sahacoin-adresse (f.eks. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1325,7 +1325,7 @@
     </message>
     <message>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>En valgfri melding å tilknytte betalingsetterspørringen, som vil bli vist når forespørselen er åpnet. Meldingen vil ikke bli sendt med betalingen over SahaCoin-nettverket.</translation>
+        <translation>En valgfri melding å tilknytte betalingsetterspørringen, som vil bli vist når forespørselen er åpnet. Meldingen vil ikke bli sendt med betalingen over Sahacoin-nettverket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1414,7 +1414,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Send SahaCoins</translation>
+        <translation>Send Sahacoins</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1494,7 +1494,7 @@
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation>Betaling av bare minimumsavgiften går helt fint så lenge det er mindre transaksjonsvolum enn plass i blokkene. Men vær klar over at dette kan ende opp i en transaksjon som aldri blir bekreftet når det er mer etterspørsel etter SahaCoin-transaksjoner enn nettverket kan behandle.</translation>
+        <translation>Betaling av bare minimumsavgiften går helt fint så lenge det er mindre transaksjonsvolum enn plass i blokkene. Men vær klar over at dette kan ende opp i en transaksjon som aldri blir bekreftet når det er mer etterspørsel etter Sahacoin-transaksjoner enn nettverket kan behandle.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -1581,7 +1581,7 @@
     </message>
     <message>
         <source>The Bitcoin address to send the payment to</source>
-        <translation>SahaCoin-adressen betalingen skal sendes til</translation>
+        <translation>Sahacoin-adressen betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1625,7 +1625,7 @@
     </message>
     <message>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>En melding som var tilknyttet sahacoin: URI vil bli lagret med transaksjonen for din oversikt. Denne meldingen vil ikke bli sendt over SahaCoin-nettverket.</translation>
+        <translation>En melding som var tilknyttet sahacoin: URI vil bli lagret med transaksjonen for din oversikt. Denne meldingen vil ikke bli sendt over Sahacoin-nettverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1662,7 +1662,7 @@
     </message>
     <message>
         <source>The Bitcoin address to sign the message with</source>
-        <translation>SahaCoin-adressen meldingen skal signeres med</translation>
+        <translation>Sahacoin-adressen meldingen skal signeres med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1694,7 +1694,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Signer meldingen for å bevise at du eier denne SahaCoin-adressen</translation>
+        <translation>Signer meldingen for å bevise at du eier denne Sahacoin-adressen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1718,11 +1718,11 @@
     </message>
     <message>
         <source>The Bitcoin address the message was signed with</source>
-        <translation>SahaCoin-adressen meldingen ble signert med</translation>
+        <translation>Sahacoin-adressen meldingen ble signert med</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte SahaCoin-adressen</translation>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Sahacoin-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1863,7 +1863,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

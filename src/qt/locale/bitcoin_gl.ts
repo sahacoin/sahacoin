@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar moedas a unha dirección SahaCoin</translation>
+        <translation>Enviar moedas a unha dirección Sahacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -183,11 +183,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións SahaCoin para probar que te pertencen</translation>
+        <translation>Asina mensaxes coas túas direccións Sahacoin para probar que te pertencen</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións SahaCoin dadas.</translation>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Sahacoin dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -467,7 +467,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente SahaCoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <translation>Abrir automáticamente o porto do cliente Sahacoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -546,7 +546,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede SahaCoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Sahacoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -928,7 +928,7 @@
     </message>
     <message>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección SahaCoin</translation>
+        <translation>Asina a mensaxe para probar que posees esta dirección Sahacoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -948,7 +948,7 @@
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección SahaCoin especificada</translation>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Sahacoin especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1029,7 +1029,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

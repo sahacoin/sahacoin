@@ -19,8 +19,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "SahaCoin"
-            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for SahaCoin)"
+            VALUE "CompanyName",        "Sahacoin"
+            VALUE "FileDescription",    PACKAGE_NAME " (GUI node for Sahacoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "sahacoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR

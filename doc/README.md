@@ -1,15 +1,15 @@
-SahaCoin
+Sahacoin
 =============
 
 Setup
 ---------------------
-SahaCoin is experimental SahaCoin client and it builds the backbone of the network. However, it downloads and stores the entire history of SahaCoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Sahacoin is experimental Sahacoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Sahacoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download SahaCoin, visit [sahacoinmore.org](https://sahacoinmore.org).
+To download Sahacoin, visit [sahacoinmore.org](https://sahacoinmore.org).
 
 Running
 ---------------------
-The following are some helpful notes on how to run SahaCoin on your native platform.
+The following are some helpful notes on how to run Sahacoin on your native platform.
 
 ### Unix
 
@@ -24,20 +24,20 @@ Unpack the files into a directory, and then run sahacoin-qt.exe.
 
 ### OS X
 
-Drag SahaCoin-More to your applications folder, and then run SahaCoin-More.
+Drag Sahacoin-More to your applications folder, and then run Sahacoin-More.
 
 ### Need Help?
 
 * See the documentation at the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 for help and more information.
 * Ask for help on [#sahacoin](http://webchat.freenode.net?channels=sahacoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=sahacoin).
-* Ask for help in [SahaCoin room](https://gitter.im/SahaCoin_Hub) on Gitter.
+* Ask for help in [Sahacoin room](https://gitter.im/Sahacoin_Hub) on Gitter.
 * Ask for help in [/r/sahacoin/](https://nm.reddit.com/r/sahacoin/) on Reddit.
-* Ask for help on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [SahaCoin topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
+* Ask for help on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [Sahacoin topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
 
 Building
 ---------------------
-The following are developer notes on how to build SahaCoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Sahacoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -47,7 +47,7 @@ The following are developer notes on how to build SahaCoin on your native platfo
 
 Development
 ---------------------
-The SahaCoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Sahacoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -64,9 +64,9 @@ The SahaCoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [SahaCoin topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
-* Discuss SahaCoin development in [SahaCoin room](https://gitter.im/SahaCoin_Hub) on Gitter.
-* Discuss SahaCoin development in [SahaCoin team](https://keybase.io/team/sahacoin) on Keybase.
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/) forums, in the [Sahacoin topic](https://bitcointalk.org/index.php?topic=3017838.new#new).
+* Discuss Sahacoin development in [Sahacoin room](https://gitter.im/Sahacoin_Hub) on Gitter.
+* Discuss Sahacoin development in [Sahacoin team](https://keybase.io/team/sahacoin) on Keybase.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

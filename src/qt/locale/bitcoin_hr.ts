@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše SahaCoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <translation>Ovo su vaše Sahacoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -271,7 +271,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna veza na SahaCoin mrežu</numerusform><numerusform>%n aktivnih veza na SahaCoin mrežu</numerusform><numerusform>%n aktivnih veza na Bitcoin mrežu</numerusform></translation>
+        <translation><numerusform>%n aktivna veza na Sahacoin mrežu</numerusform><numerusform>%n aktivnih veza na Sahacoin mrežu</numerusform><numerusform>%n aktivnih veza na Bitcoin mrežu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>SahaCoin adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>Sahacoin adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port SahaCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <translation>Automatski otvori port Sahacoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -644,7 +644,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s SahaCoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Sahacoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1035,7 +1035,7 @@
     </message>
     <message>
         <source>Bitcoin Core</source>
-        <translation>SahaCoin</translation>
+        <translation>Sahacoin</translation>
     </message>
     <message>
         <source>Block creation options:</source>
